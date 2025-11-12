@@ -45,6 +45,7 @@ A detailed view that breaks down performance across all specific Loan Status cat
 5. MTD Amount Received
 6. Average Interest Rate
 7. Average Debt-to-Income (DTI) Ratio
+
 <a href="https://github.com/Likith-Business-Analytics/Bank-Loan-Portfolio-Analysis-Reporting-SQL-MS-Excel-/blob/main/Screenshot%202025-11-12%20125807.png"> View Summary Dashboard</a>
 
 **Dashboard 2: Overview and Segmentation KPIs**
@@ -55,6 +56,7 @@ This dashboard provides visual, segmented analysis of the loan portfolio using t
 4. Employee Length Analysis: Showing how borrower employment duration influences loan volume.
 5. Loan Purpose Breakdown: Presenting a breakdown of loans based on borrower motivations (e.g., Debt Consolidation, Credit Card Refinancing).
 6. Home Ownership Analysis: Displaying loan distribution based on borrowers’ home ownership status (Own, Rent, Mortgage).
+
 <a href="https://github.com/Likith-Business-Analytics/Bank-Loan-Portfolio-Analysis-Reporting-SQL-MS-Excel-/blob/main/Screenshot%202025-11-12%20125827.png"> View OverView Dashboard</a>
 
 ## Process
@@ -63,6 +65,12 @@ This dashboard provides visual, segmented analysis of the loan portfolio using t
 3.	Data Extraction: Exported SQL results into tables/views for import into Microsoft Excel.
 4.	Pivot Table Creation & Validation: Created Pivot Tables in Excel for all required analyses and verified the dashboard figures against the raw SQL output to ensure the accuracy of the final report.
 5.	Dashboard Assembly: Integrated all Pivot Tables and charts into two dynamic dashboards (Summary and Overview) using slicers for interactive filtering.
+
+## Dashboard
+<img width="1381" height="673" alt="Screenshot 2025-11-12 125807" src="https://github.com/user-attachments/assets/27c7668d-9586-4f4a-b25f-124c20d594ad" />
+
+<img width="1387" height="652" alt="Screenshot 2025-11-12 125827" src="https://github.com/user-attachments/assets/668606ab-04a4-46df-a008-c41ae5d3497e" />
+
 
 ## Project Insight
 1. Portfolio Health: The report shows that 86.17% of the loan portfolio is categorized as 'Good Loans' (Fully Paid or Current).
