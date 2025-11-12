@@ -15,7 +15,7 @@ To develop an interactive and insightful Bank Loan Report with two main dashboar
 ## Key Performance Indicators (KPIs) 
 **Dashboard 1: Summary & Portfolio Health KPIs:**
 Core Financial and Application Metrics. These KPIs are tracked overall, Month-to-Date (MTD), and with Month-over-Month (MoM) comparison:
-1. Total Loan Applications: The total number of loan applications received.
+- Total Loan Applications: The total number of loan applications received.
 2. Total Funded Amount: The total value of funds disbursed as loans.
 3. Total Amount Received: The total repayments received from borrowers.
 4. Average Interest Rate: The average interest rate across all loans.
