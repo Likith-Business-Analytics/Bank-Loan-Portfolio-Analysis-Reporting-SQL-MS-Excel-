@@ -14,6 +14,7 @@ To develop an interactive and insightful Bank Loan Report with two main dashboar
 
 ## Key Performance Indicators (KPIs) 
 **Dashboard 1: Summary & Portfolio Health KPIs:**
+
 Core Financial and Application Metrics. These KPIs are tracked overall, Month-to-Date (MTD), and with Month-over-Month (MoM) comparison:
 - Total Loan Applications: The total number of loan applications received.
 - Total Funded Amount: The total value of funds disbursed as loans.
@@ -49,6 +50,7 @@ A detailed view that breaks down performance across all specific Loan Status cat
 <a href="https://github.com/Likith-Business-Analytics/Bank-Loan-Portfolio-Analysis-Reporting-SQL-MS-Excel-/blob/main/Screenshot%202025-11-12%20125807.png"> View Summary Dashboard</a>
 
 **Dashboard 2: Overview and Segmentation KPIs**
+
 This dashboard provides visual, segmented analysis of the loan portfolio using three core metrics for comparison: Total Loan Applications, Total Funded Amount, and Total Amount Received.
 - Monthly Trends by Issue Date: Displaying monthly variations to identify seasonality and growth patterns.
 - Regional Analysis by State: Visualizing lending activities across different regions.
