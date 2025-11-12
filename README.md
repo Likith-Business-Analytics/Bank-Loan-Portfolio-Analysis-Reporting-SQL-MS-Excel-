@@ -45,7 +45,6 @@ A detailed view that breaks down performance across all specific Loan Status cat
 5. MTD Amount Received
 6. Average Interest Rate
 7. Average Debt-to-Income (DTI) Ratio
-
 <a href="https://github.com/Likith-Business-Analytics/Bank-Loan-Portfolio-Analysis-Reporting-SQL-MS-Excel-/blob/main/Screenshot%202025-11-12%20125807.png"> View Summary Dashboard</a>
 
 **Dashboard 2: Overview and Segmentation KPIs**
@@ -56,6 +55,7 @@ This dashboard provides visual, segmented analysis of the loan portfolio using t
 4. Employee Length Analysis: Showing how borrower employment duration influences loan volume.
 5. Loan Purpose Breakdown: Presenting a breakdown of loans based on borrower motivations (e.g., Debt Consolidation, Credit Card Refinancing).
 6. Home Ownership Analysis: Displaying loan distribution based on borrowers’ home ownership status (Own, Rent, Mortgage).
+<a href="https://github.com/Likith-Business-Analytics/Bank-Loan-Portfolio-Analysis-Reporting-SQL-MS-Excel-/blob/main/Screenshot%202025-11-12%20125827.png"> View OverView Dashboard</a>
 
 ## Process
 1.	Data Loading and Cleaning: Ensured data consistency and integrity for type, format, and values.
