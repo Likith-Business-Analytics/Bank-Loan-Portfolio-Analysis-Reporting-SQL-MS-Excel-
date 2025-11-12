@@ -3,9 +3,9 @@ This project focuses on building a comprehensive, data-driven Bank Loan Report t
 
 ## Project Objective
 To develop an interactive and insightful Bank Loan Report with two main dashboards: Summary and Overview. This report serves as a strategic tool for optimizing lending decisions and portfolio management by:
-    1.	Evaluating Portfolio Health by classifying loans into 'Good Loans' (Fully Paid, Current) and 'Bad Loans' (Charged Off).
-    2.	Monitoring Key Performance Indicators (KPIs), including funded amounts, received payments, interest rates, and Debt-to-Income (DTI) ratios.
-    3.	Analyzing Time and Segment Trends using Month-to-Date (MTD), Month-over-Month (MoM) metrics, and segmentation by demographics and loan characteristics.
+1. Evaluating Portfolio Health by classifying loans into 'Good Loans' (Fully Paid, Current) and 'Bad Loans' (Charged Off).
+2. Monitoring Key Performance Indicators (KPIs), including funded amounts, received payments, interest rates, and Debt-to-Income (DTI) ratios.
+3. Analyzing Time and Segment Trends using Month-to-Date (MTD), Month-over-Month (MoM) metrics, and segmentation by demographics and loan characteristics.
 
 ## Dataset and Technology Used
 The analysis utilized the BANK LOAN DASHBOARD.xlsx - Data.csv dataset, which contained detailed loan application and repayment history. The project workflow was powered by two core technologies:
@@ -25,35 +25,35 @@ Core Financial and Application Metrics. These KPIs are tracked overall, Month-to
 Loans are classified as 'Good Loans' (status: 'Fully Paid' and 'Current') or 'Bad Loans' (status: 'Charged Off') to assess portfolio quality.
 
 *Good Loan Metrics:*
-  •	Good Loan Application Percentage
-  •	Good Loan Applications (Total count)
-  •	Good Loan Funded Amount (Total principal disbursed)
-  •	Good Loan Total Received Amount (Total repayments)
+1. Good Loan Application Percentage
+2. Good Loan Applications (Total count)
+3. Good Loan Funded Amount (Total principal disbursed)
+4. Good Loan Total Received Amount (Total repayments)
 
 *Bad Loan Metrics:*
-  •	Bad Loan Application Percentage
-  •	Bad Loan Applications (Total count)
-  •	Bad Loan Funded Amount (Total principal disbursed)
-  •	Bad Loan Total Received Amount (Total repayments)
+1. Bad Loan Application Percentage
+2. Bad Loan Applications (Total count)
+3. Bad Loan Funded Amount (Total principal disbursed)
+4. Bad Loan Total Received Amount (Total repayments)
 
 *Loan Status Grid View Metrics*
 A detailed view that breaks down performance across all specific Loan Status categories, including:
-  •	Total Loan Applications
-  •	Total Funded Amount
-  •	Total Amount Received
-  •	MTD Funded Amount
-  •	MTD Amount Received
-  •	Average Interest Rate
-  •	Average Debt-to-Income (DTI) Ratio
+1. Total Loan Applications
+2. Total Funded Amount
+3. Total Amount Received
+4. MTD Funded Amount
+5. MTD Amount Received
+6. Average Interest Rate
+7. Average Debt-to-Income (DTI) Ratio
 
 **Dashboard 2: Overview and Segmentation KPIs**
 This dashboard provides visual, segmented analysis of the loan portfolio using three core metrics for comparison: Total Loan Applications, Total Funded Amount, and Total Amount Received.
-  •	Monthly Trends by Issue Date: Displaying monthly variations to identify seasonality and growth patterns.
-  •	Regional Analysis by State: Visualizing lending activities across different regions.
-  •	Loan Term Analysis: Illustrating the distribution of loans across various term lengths (e.g., 36 months, 60 months).
-  •	Employee Length Analysis: Showing how borrower employment duration influences loan volume.
-  •	Loan Purpose Breakdown: Presenting a breakdown of loans based on borrower motivations (e.g., Debt Consolidation, Credit Card Refinancing).
-  •	Home Ownership Analysis: Displaying loan distribution based on borrowers’ home ownership status (Own, Rent, Mortgage).
+1. Monthly Trends by Issue Date: Displaying monthly variations to identify seasonality and growth patterns.
+2. Regional Analysis by State: Visualizing lending activities across different regions.
+3. Loan Term Analysis: Illustrating the distribution of loans across various term lengths (e.g., 36 months, 60 months).
+4. Employee Length Analysis: Showing how borrower employment duration influences loan volume.
+5. Loan Purpose Breakdown: Presenting a breakdown of loans based on borrower motivations (e.g., Debt Consolidation, Credit Card Refinancing).
+6. Home Ownership Analysis: Displaying loan distribution based on borrowers’ home ownership status (Own, Rent, Mortgage).
 
 ## Process
 1.	Data Loading and Cleaning: Ensured data consistency and integrity for type, format, and values.
@@ -63,10 +63,10 @@ This dashboard provides visual, segmented analysis of the loan portfolio using t
 5.	Dashboard Assembly: Integrated all Pivot Tables and charts into two dynamic dashboards (Summary and Overview) using slicers for interactive filtering.
 
 ## Project Insight
-•	Portfolio Health: The report shows that 86.17% of the loan portfolio is categorized as 'Good Loans' (Fully Paid or Current).
-•	Risk Correlation: Loans with a 'Charged Off' status (Bad Loans) have a higher average interest rate (13.88%) and a higher average DTI (14.00%) compared to 'Fully Paid' loans (Avg Int Rate: 11.64%, Avg DTI: 13.17%).
-•	Time Trend: There was a Month-over-Month increase in loan applications (6.91%) and Total Funded Amount (13.04%) from the previous month (November) to the current month (December 2021).
-•	Lending Purpose: Debt Consolidation is the primary loan purpose, accounting for the highest number of applications (18,214) and total funded amount.
+1. Portfolio Health: The report shows that 86.17% of the loan portfolio is categorized as 'Good Loans' (Fully Paid or Current).
+2. Risk Correlation: Loans with a 'Charged Off' status (Bad Loans) have a higher average interest rate (13.88%) and a higher average DTI (14.00%) compared to 'Fully Paid' loans (Avg Int Rate: 11.64%, Avg DTI: 13.17%).
+3. Time Trend: There was a Month-over-Month increase in loan applications (6.91%) and Total Funded Amount (13.04%) from the previous month (November) to the current month (December 2021).
+4. Lending Purpose: Debt Consolidation is the primary loan purpose, accounting for the highest number of applications (18,214) and total funded amount.
 
 ## Final Conclusion
 The Bank Loan Report successfully established a strategic monitoring tool. By distinguishing between 'Good' and 'Bad Loans' and providing deep dives into performance across key dimensions—including term, employment, purpose, and ownership—the bank can use these insights to optimize pricing strategies, adjust risk tolerance, and allocate lending resources more efficiently to maintain a healthy portfolio.
