@@ -46,6 +46,8 @@ A detailed view that breaks down performance across all specific Loan Status cat
 6. Average Interest Rate
 7. Average Debt-to-Income (DTI) Ratio
 
+< a href="https://github.com/Likith-Business-Analytics/Bank-Loan-Portfolio-Analysis-Reporting-SQL-MS-Excel-/blob/main/Screenshot%202025-11-12%20125807.png">
+
 **Dashboard 2: Overview and Segmentation KPIs**
 This dashboard provides visual, segmented analysis of the loan portfolio using three core metrics for comparison: Total Loan Applications, Total Funded Amount, and Total Amount Received.
 1. Monthly Trends by Issue Date: Displaying monthly variations to identify seasonality and growth patterns.
